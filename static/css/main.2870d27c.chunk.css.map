@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss","GoodsList.scss"],"names":[],"mappings":"AAAA,WACE,oBAAa,CAAb,YAAa,CACb,6BAAsB,CAAtB,qBAAsB,CACtB,0BAAA,CAAA,kBAAmB,CCHrB,MACE,iBAAkB","file":"main.2870d27c.chunk.css","sourcesContent":[".container {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n}\n",".item {\n  text-align: center;\n}\n"]}
